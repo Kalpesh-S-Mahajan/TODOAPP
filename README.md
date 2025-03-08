@@ -25,7 +25,7 @@ This is a simple **To-Do List Application** built using HTML, CSS, and JavaScrip
 ```
 
 ## 📷 Demo Screenshot
-![Todo App Demo](images/demo.png)
+![Screenshot 2025-03-08 163308](https://github.com/user-attachments/assets/a0804870-2f80-4485-b801-51995640815e)
 
 ## 🚀 Setup Instructions
 1. **Download or Clone the Repository**
