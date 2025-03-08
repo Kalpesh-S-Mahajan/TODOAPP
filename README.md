@@ -31,7 +31,7 @@ This is a simple **To-Do List Application** built using HTML, CSS, and JavaScrip
 ## 🚀 Setup Instructions
 1. **Download or Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/Kalpesh-S-Mahajan/TODOAPP.git
    ```
 2. **Open the `index.html` File**
    - Simply open `index.html` in a browser to run the app.
